@@ -44,7 +44,7 @@ This application is a rule engine that determines user eligibility based on attr
 1. **Clone the Repository**
    ```bash
    git clone "https://github.com/NachikethDamle/Rule-engine-AST-Nachiketh-Damle.git"
-   cd rule-engine
+   cd Rule Engine
    ```
 
 2. **Install Backend Dependencies**
